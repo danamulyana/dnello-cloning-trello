@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+.logo{
+    font-family: 'Knewave', cursive;
+    letter-spacing: 3px;
+}
+.fancy-title {
+    font-family: 'Knewave', cursive;
+    font-size: 48px;
+}
+
+.signin-layout{
+    background-color: $primary-color;
+}
+.dnllo-topbar{
+    background-color: $secondary-color;
+}
+.dnllo-user{
+    font-size: 8px;
+    margin-bottom: 0px !important;
+    text-align: right;
+}
+.dnllo-board-tile{
+    margin: 20px 20px 0 0;
+    .v-card__subtitle{
+        font-size: 8px;
+    }
+}
